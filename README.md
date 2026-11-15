@@ -28,7 +28,7 @@ I build practical web applications, explore intelligent technologies, and enjoy 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
 ### Frontend Development
@@ -38,12 +38,12 @@ I build practical web applications, explore intelligent technologies, and enjoy 
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Data, AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv" />
 </p>
 
 ### Tools & Platforms
