@@ -98,27 +98,6 @@ I build practical web applications, explore intelligent technologies, and enjoy 
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<!-- Dynamic profile metrics: public repository count and GitHub activity -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AyushRanjan27&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge" alt="Public repositories" />
-<img src="https://img.shields.io/github/stars/AyushRanjan27?style=for-the-badge&label=Profile%20Stars&logo=github" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=AyushRanjan27&style=for-the-badge&color=blue" alt="Profile views" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushRanjan27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Ayush's GitHub statistics" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRanjan27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AyushRanjan27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
