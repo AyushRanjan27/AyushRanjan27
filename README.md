@@ -1,19 +1,147 @@
-<h1 align="center">Hi 👋, I'm Ayush Ranjan</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable Web Applications | Exploring AI & Data Analytics | Driven by Innovation and Problem-Solving</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **AI & LLM frameworks**
+# Hey, I'm Ayush Ranjan 👋
 
-- 💬 Ask me about **Frontend & Backend**
+### Full-Stack Developer · Aspiring Software Engineer · AI & Data Analytics Enthusiast
 
-- 📫 How to reach me **ayush2004ranjan@gmail.com**
+I build practical web applications, explore intelligent technologies, and enjoy turning ideas into useful digital products.
 
-- ⚡ Fun fact **I am a passionate learner and good at team management**
+[![GitHub](https://img.shields.io/badge/GitHub-AyushRanjan27-181717?style=for-the-badge&logo=github)](https://github.com/AyushRanjan27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-1331-ranjan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush2004ranjan@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush_ranjan_1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush_ranjan_1331" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_ranjan_1331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_ranjan_1331" height="30" width="40" /></a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering student at **Parul University**.
+- 💻 Interested in **Full-Stack Development, Software Engineering, AI and Data Analytics**.
+- 🌱 Currently exploring **Generative AI, LLMs and AI application development**.
+- 🧠 I enjoy problem-solving, learning new technologies and collaborating on practical projects.
+- 🚀 Goal: build reliable, scalable and user-focused software.
+
+---
+
+## 🧰 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
+</p>
+
+### Data, AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render,aws" />
+</p>
+
+> Also exploring: **LangChain, Hugging Face, LLM APIs and Generative AI workflows.**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 ApexDistro Portal</h3>
+      <p>A full-stack ERP/CRM operations suite for wholesale and distribution workflows, including customer management, products, inventory tracking and sales challans.</p>
+      <p><b>Tech:</b> React, TypeScript, Node.js, Express, Prisma, SQL</p>
+      <a href="https://github.com/AyushRanjan27/ApexDistro-Portal">Repository</a> ·
+      <a href="https://apex-distro-portal.vercel.app">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>🎨 DREAMWALL</h3>
+      <p>An AI-powered wallpaper creation application that turns text prompts into custom wallpapers, with authentication, gallery and download features.</p>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB, OpenAI API</p>
+      <a href="https://github.com/AyushRanjan27/DREAMWALL">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏠 HostelHub</h3>
+      <p>A hostel management frontend with student and admin dashboards, role-based navigation, form validation and authentication UI.</p>
+      <p><b>Tech:</b> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/AyushRanjan27/HostelHub">Repository</a>
+    </td>
+    <td width="50%">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A personal portfolio website showcasing projects, technical skills and certifications, built with a React frontend and Node/Express backend.</p>
+      <p><b>Tech:</b> React, Vite, Node.js, Express</p>
+      <a href="https://github.com/AyushRanjan27/PORTFOLIO">Repository</a> ·
+      <a href="https://ayushranjan27.github.io/PORTFOLIO">Live Portfolio</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/AyushRanjan27?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<!-- Dynamic profile metrics: public repository count and GitHub activity -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AyushRanjan27&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge" alt="Public repositories" />
+<img src="https://img.shields.io/github/stars/AyushRanjan27?style=for-the-badge&label=Profile%20Stars&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=AyushRanjan27&style=for-the-badge&color=blue" alt="Profile views" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushRanjan27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Ayush's GitHub statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRanjan27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AyushRanjan27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushRanjan27&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+> GitHub's native contribution calendar is also displayed on your profile page. The cards above are generated by third-party services and may occasionally be unavailable or delayed.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from the community and collaborating on meaningful projects.
+
+- **LinkedIn:** [Ayush Ranjan](https://linkedin.com/in/ayush-1331-ranjan)
+- **Email:** [ayush2004ranjan@gmail.com](mailto:ayush2004ranjan@gmail.com)
+- **GitHub:** [@AyushRanjan27](https://github.com/AyushRanjan27)
+
+<div align="center">
+
+### “Build with curiosity. Learn with consistency. Create with purpose.” 🚀
+
+</div>
